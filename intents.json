@@ -1,0 +1,159 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "How are you",
+                "Is anyone there?",
+                "Hello",
+                "Good day",
+                "Hola",
+                "Bruv",
+                "Wassup",
+                "What's up",
+                "Bro",
+                "Yo",
+                "Hey there",
+                "Yuuurrr"
+            ],
+            "responses": [
+                "Hey :-)",
+                "Yuuurrr",
+                "Wasssssuuuup",
+                "Bro wassup",
+                "Hola como estas",
+                "Hello, thanks for visiting",
+                "Hi there, what can I do for you?",
+                "Hi there, how can I help?",
+                "Yo bruv, what can I do for you?",
+                "Sup, what can I help you with?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye"
+            ],
+            "responses": [
+                "See you later, thanks for visiting",
+                "Have a nice day",
+                "Bye! Come back again soon.",
+                "Peace :)",
+                "Yuuurrrr bless up"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Thank's a lot!"
+            ],
+            "responses": [
+                "Happy to help!",
+                "Any time!",
+                "My pleasure",
+                "No problem.",
+                "Yuuurrr"
+            ]
+        },
+        {
+            "tag": "products",
+            "patterns": [
+                "What kind of stuff are there?",
+                "What do you sell?",
+                "What kind of stuff do you sell?",
+                "What products do you sell?",
+                "What can I buy?"
+            ],
+            "responses": [
+                "We sell sweaters and T-shirts",
+                "We have sweaters and T-shirts"
+            ]
+        },
+        {
+            "tag": "sizes",
+            "patterns": [
+                "What sizes do you have?",
+                "What sizes are in stock?",
+                "What's the biggest size?",
+                "What's the smallest size?"
+            ],
+            "responses": [
+                "We have XS, S, M, L, XL, XXL.",
+                "Currently XS, S, M, L, XL, XXL are in stock.",
+                "All kinds of sizes bro",
+                "XXL is the biggest, and XS is the smallest, and everything in between."
+            ]
+        },
+        {
+            "tag": "payments",
+            "patterns": [
+                "How can I pay?",
+                "How do I pay?",
+                "Do you take credit cards?",
+                "Do you accept Mastercard?",
+                "Can I pay with Paypal?",
+                "Are you cash only?"
+            ],
+            "responses": [
+                "We accept VISA, Mastercard and Paypal bro",
+                "We accept most major credit cards, and Paypal bro"
+            ]
+        },
+        {
+            "tag": "delivery_time",
+            "patterns": [
+                "How long does delivery take?",
+                "How long does shipping take?",
+                "When do I get my delivery?",
+                "When can it get shipped?",
+                "When can it get delivered?"
+            ],
+            "responses": [
+                "Delivery takes 7-15 days",
+                "Shipping takes 7-15 days"
+            ]
+        },
+        {
+            "tag": "delivery_method",
+            "patterns": [
+                "What are the delivery options?",
+                "What are the shipping options?",
+                "What are the ways of delivery?"
+            ],
+            "responses": [
+                "Ground shipping",
+                "Overhead plan airdrop",
+                "Supply crate bro, just like CoD",
+                "We gon hand it to you",
+                "Drone will fly to your place and drop it at your doorstep",
+                "Alien spaceship transmitting it to your place"
+            ]
+        },
+        {
+            "tag": "feeling_happy",
+            "patterns": [
+                "I am so happy.",
+                "Today is a good day, I'm feeling great.",
+                "Today is a good day, I'm feeling good.",
+                "I'm feeling good.",
+                "Not bad",
+                "Feels good."
+            ],
+            "responses": [
+                "Glad to hear that, keep up the positive vibes:)",
+                "Glad to hear that, wanna buy some nice sweaters and T-shirts from us?",
+                "Nice, glad to hear that.",
+                "Wow that's awesome.",
+                "Wow nice, spread the positivity, let more people feel your great energy.",
+                "haha great, have a wonderful rest of your day."
+            ]
+        }
+    ]
+}
